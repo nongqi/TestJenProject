@@ -14,3 +14,7 @@ class TestLogin:
     def test_login_004(self):
         print("004")
         assert 1
+
+    def test_login_005(self):
+        print("005")
+        assert 1

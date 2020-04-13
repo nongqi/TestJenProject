@@ -10,3 +10,7 @@ class TestLogin:
     def test_login_003(self):
         print("003")
         assert 1
+
+    def test_login_004(self):
+        print("004")
+        assert 1

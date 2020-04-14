@@ -22,3 +22,7 @@ class TestLogin:
     def test_login_006(self):
         print("006")
         assert 1
+
+    def test_login_007(self):
+        print("007")
+        assert 1
